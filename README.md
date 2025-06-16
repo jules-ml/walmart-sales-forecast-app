@@ -11,7 +11,7 @@ An interactive Streamlit web app that predicts weekly sales for Walmart stores a
 -  **Download filtered forecast** as CSV
 -  **Live on Streamlit Cloud** for public access
 
-## 🤖 Model Performance
+## Model Performance
 
 - **Algorithm**: XGBoost Regressor
 - **R² Score**: `0.8612` — explains ~86% of sales variance
@@ -29,7 +29,7 @@ Trained on over **45,000 weekly records** across multiple Walmart locations.
 [Launch the Streamlit App](https://YOUR-STREAMLIT-APP-URL.streamlit.app)  
 > *(Replace with your real Streamlit URL once deployed)*
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python**, **Pandas**, **XGBoost**
 - **Matplotlib**, **Seaborn**
@@ -37,4 +37,20 @@ Trained on over **45,000 weekly records** across multiple Walmart locations.
 - **Git** & **GitHub** for version control
 
 ## Project Structure
+├── app.py # Streamlit application
+├── walmart_forecast_output.csv # Forecast results for test set
+├── train.csv, test.csv # Kaggle dataset
+├── stores.csv, features.csv # Additional data
+├── charts/ # Optional: visualizations
+└── README.md
+
+
+## ✍️ Author
+
+**Giulio Piccinonna**  
+Graduate Student – M.S. Data Analytics, UCF  
+[GitHub](https://github.com/jules-ml) • [Portfolio](https://julesdata.carrd.co) *(replace this)*
+
+---
+
 
