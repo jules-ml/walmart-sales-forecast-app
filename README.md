@@ -26,8 +26,7 @@ Trained on over **45,000 weekly records** across multiple Walmart locations.
 
 ## Live App
 
-[Launch the Streamlit App](https://YOUR-STREAMLIT-APP-URL.streamlit.app)  
-> *(Replace with your real Streamlit URL once deployed)*
+[Launch the Streamlit App]([👉 Launch the Streamlit App](https://walmart-sales.streamlit.app/)
 
 ## Tech Stack
 
